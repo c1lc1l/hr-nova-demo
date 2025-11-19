@@ -8,7 +8,7 @@ import { Add } from '@mui/icons-material';
 import { useAuth } from '../../context/AuthContext';
 
 const LeaveManagement = () => {
-  const { user, hasPermission } = useAuth();
+  const { hasPermission } = useAuth();
   const [open, setOpen] = useState(false);
   const [leaveType, setLeaveType] = useState('');
   

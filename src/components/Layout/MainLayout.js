@@ -7,7 +7,7 @@ import {
 } from '@mui/material';
 import {
   Menu as MenuIcon, Dashboard as DashboardIcon, People, EventAvailable,
-  Assessment, Logout, AccountCircle
+  Assessment, Logout
 } from '@mui/icons-material';
 
 const drawerWidth = 240;
