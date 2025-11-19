@@ -46,7 +46,7 @@ const MainLayout = () => {
     <div>
       <Toolbar>
         <Typography variant="h6" noWrap>
-          HRIS
+          HR NOVA
         </Typography>
       </Toolbar>
       <List>
@@ -75,7 +75,7 @@ const MainLayout = () => {
             <MenuIcon />
           </IconButton>
           <Typography variant="h6" noWrap component="div" sx={{ flexGrow: 1 }}>
-            HR Information System
+            HR NOVA
           </Typography>
           <Box sx={{ display: 'flex', alignItems: 'center', gap: 2 }}>
             <Typography variant="body2">{user?.name} ({user?.role})</Typography>
