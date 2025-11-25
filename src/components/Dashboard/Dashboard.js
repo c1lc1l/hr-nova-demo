@@ -27,7 +27,7 @@ const Dashboard = () => {
   return (
     <Box>
       <Typography variant="h4" gutterBottom>
-        Welcome back, {user?.name}!
+        Welcomeeeeee back, {user?.name}!
       </Typography>
       <Typography variant="body1" color="textSecondary" sx={{ mb: 3 }}>
         Here's what's happening with your organization today
