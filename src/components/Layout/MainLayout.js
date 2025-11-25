@@ -46,7 +46,7 @@ const MainLayout = () => {
     <div>
       <Toolbar>
         <Typography variant="h6" noWrap>
-          HR NOVA
+          Employee Dashboard
         </Typography>
       </Toolbar>
       <List>
